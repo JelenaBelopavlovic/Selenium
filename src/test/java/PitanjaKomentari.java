@@ -74,6 +74,7 @@ public class PitanjaKomentari {
 
 
         // driver.navigate().back();
+
         // driver.navigate().refresh();
 
         // 31.01. DA LI U SVAKOJ TEST KLASI INICIJALIZUJEMO SVE PAGE KLASE?
